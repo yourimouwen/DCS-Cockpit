@@ -1,6 +1,6 @@
 Hi all!
 
-*This is ReadMe file is exactly the post I made on reddit. You can find the post [here](https://www.reddit.com/r/hoggit/comments/ovzynk/i_made_a_working_3d_printed_attitude_indicator/).
+*This is ReadMe file is exactly the post I made on Reddit. You can find the post [here](https://www.reddit.com/r/hoggit/comments/ovzynk/i_made_a_working_3d_printed_attitude_indicator/).
 
 I made a 3D printed attitude indicator and altimeter, which I linked with the beautiful game of DCS: World to display its information on these flight instruments. This is the first step in making my own small cockpit around my monitor. I'm sorry if some parts aren't clear, please tell me if they are. Putting the 3d printed objects together should speak for itself, and if it isn't clear, please comment! Also, the attitude indicator is not perfect, there is a small delay between the game and the indicator and the altimeter might skip a few steps sometimes. I'm not sure why this is, but please comment if you find out why!
 
